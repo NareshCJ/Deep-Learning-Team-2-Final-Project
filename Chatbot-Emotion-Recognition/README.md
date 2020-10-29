@@ -23,9 +23,6 @@ file.
 Note: The code has only been tested under Ubuntu 14.04. In addition, the visual interface will likely not display
 properly for all monitor resolutions. Only tested under 2560 x 1695.
 
-### Youtube Demonstration Video:
-https://www.youtube.com/watch?v=Ze4XzxQIzNs
-
 
 # Website references used to help create this project:
 
