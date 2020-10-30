@@ -78,10 +78,10 @@ if __name__ == "__main__":
         emotion.run()
 
         input_sentence = speech.recognize_speech()
-        print "You said: ", input_sentence
+        print("You said: ", input_sentence)
 
         meeting_emotion = emotion.get_emotion()
-        print "Emotion read: ", meeting_emotion
+        print("Emotion read: ", meeting_emotion)
 
     # Make a call to see whether or not the user is recognized
     user_name = history_recollection()
@@ -111,11 +111,11 @@ if __name__ == "__main__":
         #print "User said: ", input_sentence
 
         if input_sentence != "":
-            print "Original input sentence: ", input_sentence
+            print("Original input sentence: ", input_sentence)
 
             top_words = topic_extract.get_top_topics(input_sentence)
             #input_sentence = " ".join((input_sentence, top_words[0]))
-            print input_sentence
+            print(input_sentence)
 
             response, correlation = context.compute_document_similarity(input_sentence)
 
@@ -141,7 +141,7 @@ if __name__ == "__main__":
     emotion.reset()
     emotion.run()
     leaving_emotion = emotion.get_emotion()
-    print "Leaving emotion: ", leaving_emotion
+    print("Leaving emotion: ", leaving_emotion)
     #print "Name: ", user_name
 
     # If the user came in happy and left sad, apologize to them
