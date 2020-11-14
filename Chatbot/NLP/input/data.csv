@@ -1,0 +1,183 @@
+query,type
+Hi,greeting
+hi,greeting
+hiii,greeting
+hii,greeting
+Hello,greeting
+Hey,greeting
+Hey man,greeting
+Hi,greeting
+How’s it going,greeting
+How are you doing?,greeting
+What’s up?,greeting
+What’s new?,greeting
+What’s going on?,greeting
+How’s everything ?,greeting
+How are things?,greeting
+How’s life?,greeting
+How’s your day?,greeting
+How’s your day going?,greeting
+Good morning,greeting
+Good afternoon,greeting
+Good evening,greeting
+Pleased to meet you,greeting
+How have you been?,greeting
+How do you do?,greeting
+Howdy!,greeting
+ Sup?,greeting
+Whazzup?,greeting
+Hiya!,greeting
+what is ai?,question
+what is a.i?,question
+what is computer vision?,question
+what is cv?,question
+what is nlp?,question
+what is rnn?,question
+what is cnn?,question
+what is gru?,question
+what is lstm?,question
+what is artificial intelligence?,question
+what is layers?,question
+what is neural networks?,question
+what is nn?,question
+what is bias?,question
+what is weights?,question
+what is dropout?,question
+what is yolo?,question
+what is mask-rcnn?,question
+what is rcnn?,question
+what is faster rcnn?,question
+what is object detection?,question
+what is tokenization?,question
+what is machine learning?,question
+what is supervised learning?,question
+what is unsupervised learning?,question
+what is reinforcement learning?,question
+what is computation?,question
+what is parallel processing?,question
+what is java?,question
+what is kotlin?,question
+what is ruby?,question
+what is alexa?,question
+what is google assistant?,question
+what is chatbots?,question
+what is android?,question
+what is apple?,question
+what is google?,question
+what is nvidia?,question
+what is gpu?,question
+what is ios?,question
+what is web development?,question
+what is html?,question
+what is css?,question
+what is javascript?,question
+what is full stack?,question
+what is parallel pocessing?,question
+what is nokia?,question
+what is os?,question
+what is networking?,question
+what is data science?,question
+what is data analyst?,question
+what is analyst?,question
+what is visualization?,question
+what is matplotlib?,question
+what is seaborn?,question
+what is numpy?,question
+what is pandas?,question
+what is tensorflow?,question
+what is pytorch?,question
+what is keras?,question
+what is fast ai?,question
+what is scikit learn?,question
+what is gradient descent?,question
+what is packets?,question
+what is loss functions?,question
+what is optimiser?,question
+what is adam?,question
+what is entropy?,question
+what is mse?,question
+ai,question
+a.i,question
+computer vision,question
+cv,question
+nlp,question
+rnn,question
+cnn,question
+gru,question
+lstm,question
+artificial intelligence,question
+layers,question
+neural networks,question
+nn,question
+bias,question
+weights,question
+dropout,question
+yolo,question
+mask-rcnn,question
+rcnn,question
+faster rcnn,question
+object detection,question
+tokenization,question
+machine learning,question
+supervised learning,question
+unsupervised learning,question
+reinforcement learning,question
+computation,question
+parallel processing,question
+java,question
+kotlin,question
+ruby,question
+alexa,question
+google assistant,question
+chatbots,question
+android,question
+apple,question
+google,question
+nvidia,question
+gpu,question
+ios,question
+web development,question
+html,question
+css,question
+javascript,question
+full stack,question
+parallel pocessing,question
+nokia,question
+os,question
+networking,question
+data science,question
+data analyst,question
+analyst,question
+visualization,question
+matplotlib,question
+seaborn,question
+numpy,question
+pandas,question
+tensorflow,question
+pytorch,question
+keras,question
+fast ai,question
+scikit learn,question
+gradient descent,question
+packets,question
+loss functions,question
+optimiser,question
+adam,question
+entropy,question
+mse,question
+thank you,compliment
+thanks,compliment
+tk u,compliment
+it was very helpful,compliment
+its insightful,compliment
+its nice,compliment
+thank you very much,compliment
+thank you so much,compliment
+thank you very much,compliment
+My thanks and appreciation,compliment
+Thank you for your assistance,compliment
+I appreciate your assistance,compliment
+Thank you for everything you do,compliment
+You have been most helpful,compliment
+Many thanks for your assistance,compliment
+Thank you very much,compliment
